@@ -43,6 +43,6 @@
 		}
 	},
 	"hostRequirements": {
-		"memory": "9gb"
+		"memory": "17gb"
 	}
 }
